@@ -19,3 +19,7 @@ tags:
 Email: util.you.com#gmail.com (replace # with @)
 
 Telegram：[latinxiaomao](https://t.me/latinxiaomao)
+
+
+
+![幽灵公主剧照](./images/Mononoke_Hime.jpg)
