@@ -23,3 +23,10 @@ Telegram：[latinxiaomao](https://t.me/latinxiaomao)
 
 
 ![幽灵公主剧照](./images/Mononoke_Hime.jpg)
+![](./images/202005162142.jpg)
+![](./images/202005162143.jpg)
+![](./images/202005162144.jpg)
+![](./images/202005162145.jpg)
+![](./images/202005162146.jpg)
+![](./images/202005162147.jpg)
+![](./images/202005162148.jpg)
