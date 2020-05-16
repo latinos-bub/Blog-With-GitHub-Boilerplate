@@ -2,12 +2,11 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2018/06/28 17:26:00
 status: publish
-author: AlanDecode
+author: 拉丁小毛
 categories: 
-  - Maverick
-  - Dev
+  - Note
 tags: 
   - theme
 ---
@@ -17,6 +16,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: util.you.com#gmail.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[latinxiaomao](https://t.me/latinxiaomao)
