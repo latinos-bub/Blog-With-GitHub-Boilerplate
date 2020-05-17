@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demo!
-slug: Demo
+slug: demo
 date: 2020-05-16 16:50
 status: publish
 author: 拉丁小毛
@@ -109,8 +109,11 @@ cell 3 | cell 4
 ## Link Card
 
 [links]
-[AlanDecode](https://www.imalan.cn)+(https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&r=G&d=)
+[Latinxiaomao](https://latinos-bub.github.io)
 [/links]
 
 
 [1]: ./images/1463017562.jpg
+
+## DPlayer
+[dplayer data-theme="#b7daff"]https://www.bilibili.com/video/BV1op4y1X7Sa[/dplayer]

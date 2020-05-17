@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+	# -*- coding: utf-8 -*-
 """博客构建配置文件
 """
 
@@ -7,7 +7,8 @@ site_prefix = "/Note/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
-archives_page_size = 20
+archives_page_size = 10
+locale = "Asia/Shanghai"
 template = {
     "name": "Galileo",
     "type": "local",
@@ -24,9 +25,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "拉丁小毛"
 email = "util.you.com@gmail.com"
-author_homepage = "https://latinos-bub.github.io"
+author_homepage = "/"
 description = "三里清风三里路，步步风里再无你"
-key_words = ['拉丁小毛', 'Note']
+key_words = ['拉丁小毛', 'Note', 'Maverick']
 language = 'zh-CN'
 external_links = [
     {
@@ -75,6 +76,13 @@ social_links = [
         "icon": "gi gi-weibo"
     }
 ]
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "oTSl2QltX9lo3eLGQVrAeYGD-gzGzoHsz",
+    "appKey": "0vc24cG5OGEYYrDFAnPR5bs3",
+}
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
