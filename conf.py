@@ -97,4 +97,4 @@ footer_addon = ''
 body_addon = ''
 
 # 背景图片
-background_img = './images/202005162142.jpg'
+background_img = "${static_prefix}background.png"
