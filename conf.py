@@ -23,7 +23,7 @@ enable_jsdelivr = {
 site_name = "拉丁小毛的小站"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-favicon = "${static_prefix}favicon.ico"
+site_favicon = "${static_prefix}favicon.ico"
 author = "拉丁小毛"
 email = "util.you.com@gmail.com"
 author_homepage = "/"
@@ -90,6 +90,11 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
+# 添加到 <footer> 的内容
 footer_addon = ''
 
+# 添加到 <body> 的内容
 body_addon = ''
+
+# 背景图片
+background_img = './images/202005162142.jpg'
